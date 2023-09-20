@@ -70,3 +70,9 @@ h5 {
 .front-face .chip {
   width: 50px;
 }
+.front-face .card-details {
+  display: flex;
+  margin-top: 40px;
+  align-items: flex-end;
+  justify-content: space-between;
+}
